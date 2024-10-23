@@ -5,10 +5,10 @@ const theme = createTheme({
   palette: {
     mode: "light",
     primary: {
-      main: "#8bfcb0",
+      main: "#b042ff",
     },
     secondary: {
-      main: "#ff8bd3",
+      main: "#fcfa51",
     },
   },
 });
